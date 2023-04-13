@@ -1,6 +1,7 @@
 {
   "name": "shopnow",
   "version": "1.0.0",
+  "type":"module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/GordonOtieno/ShopNow#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^2.0.22"
   }
